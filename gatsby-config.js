@@ -38,7 +38,7 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: true,
+        authorsPage: false,
         sources: {
           local: true,
           // contentful: true,
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `乌撒基ノサイバーパンク`,
+        short_name: `乌撒基`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
