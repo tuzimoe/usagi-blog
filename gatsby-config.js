@@ -11,24 +11,24 @@ module.exports = {
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/tuzi_moe`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/tuzimoe`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://www.instagram.com/usagiryuu`,
       },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+      // {
+      //   name: `linkedin`,
+      //   url: `https://www.linkedin.com/company/narative/`,
+      // },
+      // {
+      //   name: `dribbble`,
+      //   url: `https://dribbble.com/narativestudio`,
+      // },
     ],
   },
   plugins: [
@@ -38,7 +38,7 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: false,
+        // authorsPage: true,
         sources: {
           local: true,
           // contentful: true,
