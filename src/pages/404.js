@@ -11,7 +11,7 @@ function NotFoundPage() {
       <SEO />
       <Section>
         <div style={{ marginTop: "100px" }}>
-          <Headings.h1>404: Page Not Found</Headings.h1>
+          <Headings.h1>404: Page Not Found 你来或不来，我都在这里，不悲不喜</Headings.h1>
         </div>
       </Section>
     </Layout>
