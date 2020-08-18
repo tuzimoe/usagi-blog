@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `乌撒基ノサイバーパンク`,
     name: `乌撒基ノサイバーパンク`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://blog.tuzi.moe`,
     description: `a.k.a. 兔爺很帥・我向佛許願・三天之內必夢安魂於酒香`,
     hero: {
       heading: `搖滾精神？<br> 在屋裡<del>拉屎</del>就是搖滾精神<br><p>我向佛許願<br>三天之內必夢安魂於酒香</p>`,
