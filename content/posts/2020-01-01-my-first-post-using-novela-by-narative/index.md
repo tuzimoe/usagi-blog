@@ -1,123 +1,104 @@
 ---
-title: My first post using Novela by Narative
+title: About me & ともたち
 author: Usagi Ryuu
-date: 2019-04-30T00:00:00.000Z
+date: 2029-04-30T00:00:00.000Z
 excerpt: >-
-  With the growing community interest in Gatsby, we hope to create more
-  resources that make it easier for anyone to grasp the power of this incredible
-  tool.
-hero: ./images/hero.jpg
+  我是兔子鮮笙，Usagi Ryuu 也是我。今年 18 歲，現就讀於奧克蘭大學理學院計算機科學系
+hero: ./images/hero.png
 ---
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+# 👋 您好
+我是兔子鮮笙，Usagi Ryuu 也是我
 
-## Headers
+今年 18 歲，現就讀於奧克蘭大學理學院計算機科學系，大一  
+据非官方考证第一位 Bilibili 00 后员工 ```已经离职，去念大学啦```  
+现在在🇳🇿奥克兰弄自己的创业项目 + 念大学
 
-# H1
+沒事寫點程序幻想讓世界變得更美好
 
-It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
+洗洗睡了，歡迎交朋友
 
-## H2
 
-### H3
+## 這裡是我的友鏈列表，申请上页发送邮件至 a#tuzi.moe，原則先友後鏈。
 
-#### H4
-
-##### H5
-
-###### H6
-
-## Emphasis
-
-Emphasis, aka italics, with *asterisks* or *underscores*.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-Combined emphasis with **asterisks and *underscores***.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-## Lists
-
-1. First ordered list item
-2. Another item
-3. Actual numbers don't matter, just that it's a number
-
-* Unordered list can use asterisks
-* Or minuses
-* Or pluses
-
-## Links
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link](https://www.mozilla.org)
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions](http://slashdot.org)
-
-Or leave it empty and use the [link text itself](http://www.reddit.com).
-
-URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com or <http://www.example.com> and sometimes example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-## Images
-
-<div className="Image__Small">
-  <img
-    src="./images/article-image-2.jpg"
-    title="Logo Title Text 1"
-    alt="Alt text"
-  />
-</div>
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-
-## Code and Syntax Highlighting
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-### JSX
-
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
-
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
-
-## Blockquotes
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.
-
-> Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-
-## Horizontal Rule
-
-Horizontal Rule
-
-Three or more...
-
-- - -
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-
-- - -
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+# 🌟🌟
+# polebug  
+[https://polebug.github.io](https://polebug.github.io/)   
+在 B 站一起共事的技术超强 Golang 小姐姐  
+  
+# Karl Zeo  
+[https://mikulove.com](https://mikulove.com/)   
+Sketch 技术一流，贼能吃，能吃是福  
+  
+# 不懂鸟语的人  
+[http://shangxin.me](http://shangxin.me/)  
+Vue 满强的 julao
+  
+# Jack Ma  
+[https://www.kingjac.xyz](https://www.kingjac.xyz/)  
+新西兰公司的同事  
+  
+# Egawa  
+[https://yiruka114514.github.io](https://yiruka114514.github.io/)  
+大佬 进步人，和我在日本一起挤网吧的大佬  
+  
+# 🌟
+# Captain雪ノ下八幡  
+[https://blog.tcwq.tech](https://blog.tcwq.tech/)  
+WWDC 奖学金获得者，Wota 艺师  
+  
+# Apollo Zhu  
+[https://apollozhu.github.io](https://apollozhu.github.io/)   
+连续两届 WWDC 奖学金获得者  
+  
+# Makito  
+[https://keep.moe](https://keep.moe/)  
+AwesomeQRCode 制作者  
+  
+# DIYgod  
+[https://diygod.me](https://diygod.me/)  
+DPlayer 制作者，APlayer 制作者  
+  
+# Netrvin  
+[https://blog.yuzu.im](https://blog.yuzu.im/)  
+CFPMP 制作者  
+  
+# Ben 饼干  
+[https://www.imbushuo.net](https://www.imbushuo.net/)  
+UEFI 大佬  
+  
+# IceYu  
+[https://lxy2222.github.io](https://lxy2222.github.io/)  
+漂亮的前端大佬小姐姐  
+  
+# Himself65  
+[https://www.himself65.com](https://www.himself65.com/)  
+NodeJS 贡献者 julao  
+  
+# Haor  
+[https://haor233.com](https://haor233.com/)  
+做过一些很有趣的项目  
+  
+# WildCat  
+[https://blog.wildcat.io](https://blog.wildcat.io/)  
+现就职于微软的大佬  
+  
+# DGideas  
+[https://dgideas.net](https://dgideas.net/)  
+现就职于清华大学计算机组成原理实验室的大佬  
+  
+# Rex Zeng  
+[https://rexskz.info](https://rexskz.info/)  
+音游狗、安全狗、攻城狮、业余设计师、段子手、苦学日语的少年  
+  
+# SamWanng  
+[https://samwan.ng](https://samwan.ng/)  
+He is an artist in his preferred fields like programming, photograph, music, design and writings  
+  
+# 核子束  
+[https://imshu.cc](https://imshu.cc/)  
+OMG 他的壳子太帅了 买它 买它  
+  
+# 新一  
+[https://a-wing.top](https://a-wing.top/)  
+无人机研发工程师  
+  
